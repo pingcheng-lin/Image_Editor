@@ -1,7 +1,11 @@
 # Image Editor
-## To execute
+## Run
 `python3 Editor.py`
 ## Fuction
-* It has GUI
+* Save, load, or reset image
+* Change brightness
 * Resize image
-* Modify RGB and brightness
+* Modify RGB
+* Transfer color to its complement
+## Sample Output
+![image](https://user-images.githubusercontent.com/68893031/111076789-c8dc5100-8528-11eb-8381-25d6ba137bca.png)
